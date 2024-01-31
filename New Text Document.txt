@@ -1,2 +1,8 @@
 This is my file
+<<<<<<< HEAD
 This is the second line.
+=======
+This is my second line
+this is my third line.
+
+>>>>>>> 17215728eeda4ce1ccca53c24ed030311dc32e4f
