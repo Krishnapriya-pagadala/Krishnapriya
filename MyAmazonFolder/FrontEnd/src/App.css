@@ -1,0 +1,79 @@
+.header1{
+  background-color:#131921;
+
+  color: white;
+  height: 70px;
+}
+.header2{
+  background-color:#232f3e;
+  color: white;
+}
+.footerButton{
+  width:1258px;
+  background-color: #37475A;
+  color: white;
+}
+.homefooterButton{
+  width: 250px;
+background-color: orange;
+}
+.links{
+  text-decoration-line: none;
+  color:green;
+}
+.foot{
+text-decoration-line: none;
+padding: 5px 60px;
+background-color:#232f3e;
+color: white;
+
+}
+
+.register{
+  width: 45%;
+}
+.login{
+  width:45%;
+}
+.profiledetails{
+  width:33%;
+margin-top: 35px;
+margin-left: 25%;
+padding-left: 20px;
+padding-top: 20px;
+}
+.underline{
+  text-decoration-line: none;
+}
+.margin{
+  margin: 25% 10% ;
+}
+.products{
+  display: flex;
+  padding: 15px 15px 15px 15px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 30px;
+}
+.yourAccount{
+  display: flex;
+  padding: 15px   15px 15px 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 80px;
+
+}
+.box{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+ 
+
+}
+.card{
+  transition: box-shadow 0.3s ease-in-out;
+
+}
+.card:hover{
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+}
